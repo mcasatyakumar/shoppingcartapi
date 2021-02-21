@@ -5,7 +5,8 @@ This is a sample application demonstrating how to containerize an Node.js expres
 ## Running the application
 
 1. Clone the repo
-2. Spin up containers: `docker-compose up -d`
+2. Build Images: `docker-compose build`
+3. Spin up containers: `docker-compose up -d`
 
 
 ## Access REST API
